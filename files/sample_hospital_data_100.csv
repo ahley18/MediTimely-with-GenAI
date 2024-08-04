@@ -16,7 +16,7 @@ Dr. Anderson,Hepatologist,0:00,16:00,Blessed Mother Maternity & Lying-in Clinic,
 Dr. Brown,Gastroenterologist,0:00,16:00,Mary Chiles General Hospital,22.45,85
 Dr. Williams,Radiologist,0:00,8:00,Manila Health Center,18.12,60
 Dr. Thomas,Neurologist,8:00,8:00,Clinica Manila Pasig,16.78,95
-Dr. Smith,Neurosurgeon,0:00,16:00,Ospital ng Parañaque,24.56,80
+Dr. Smith,Neurosurgeon,0:00,16:00,Ospital ng ParaÃ±aque,24.56,80
 Dr. White,Critical Care Medicine Specialist,16:00,16:00,Mandaluyong City Medical Center,16.45,85
 Dr. Jackson,Emergency Medicine Physician,16:00,0:00,Our Lady of Peace Hospital,23.12,85
 Dr. Johnson,Plastic Surgeon,0:00,0:00,Blessed Mother Maternity & Lying-in Clinic,18.33,50
@@ -33,7 +33,7 @@ Dr. Johnson,Critical Care Medicine Specialist,16:00,16:00,A.H. Lacson Health Cen
 Dr. Lee,Forensic Pathologist,0:00,16:00,Ospital ng San Fernando,18.56,75
 Dr. Brown,Cardiothoracic Surgeon,16:00,0:00,Healthway - 8 Adriatico Manila,8.65,95
 Dr. Thomas,Psychiatrist,0:00,16:00,Our Lady of Lourdes Hospital,21.45,100
-Dr. Brown,Rheumatologist,0:00,16:00,Makati Medical Center – In-Patient Services,10.34,90
+Dr. Brown,Rheumatologist,0:00,16:00,Makati Medical Center â€“ In-Patient Services,10.34,90
 Dr. Anderson,Emergency Medicine Physician,8:00,8:00,Dr. Jesus C. Delgado Memorial Hospital,6.89,70
 Dr. Johnson,Nephrologist,0:00,16:00,Sanctuario De San Jose Hospital,24.78,100
 Dr. Taylor,Psychiatrist,8:00,0:00,Martinez Memorial Hospital,20.34,50
@@ -51,7 +51,7 @@ Dr. Jackson,Pediatric Endocrinologist,8:00,8:00,Philippine Orthopedic Center,13.
 Dr. Jackson,Orthopedic Surgeon,8:00,16:00,American Hospital,5.76,90
 Dr. Thomas,Geriatrician,16:00,16:00,Mary Chiles General Hospital,22.45,85
 Dr. Anderson,Pediatric Endocrinologist,0:00,16:00,Clinica Manila Pasig,16.78,95
-Dr. Brown,Cosmetic Surgeon,0:00,0:00,Las Piñas Doctors Hospital,22.12,85
+Dr. Brown,Cosmetic Surgeon,0:00,0:00,Las PiÃ±as Doctors Hospital,22.12,85
 Dr. Taylor,Emergency Medicine Physician,0:00,16:00,Manila Doctors Hospital - Urology Dept.,9.78,70
 Dr. Smith,Hyperbaric Physician,8:00,16:00,Philippine Children's Medical Center,18.12,140
 Dr. Lee,Orthopedic Surgeon,16:00,16:00,Cardinal Santos Medical Center,13.45,180
@@ -76,7 +76,7 @@ Dr. Lee,Gastroenterologist,16:00,0:00,Our Lady of Lourdes Hospital,21.45,100
 Dr. Johnson,Psychiatrist,16:00,0:00,St. James Hospital,19.78,100
 Dr. Taylor,Orthopedic Surgeon,8:00,16:00,Santa Maria General Hospital,22.78,90
 Dr. Taylor,Endocrinologist,8:00,0:00,Justice Jose Abad Santos General Hospital,15.67,90
-Dr. Taylor,Internist,0:00,16:00,Las Piñas General Hospital and Satellite Trauma Center,24.56,120
+Dr. Taylor,Internist,0:00,16:00,Las PiÃ±as General Hospital and Satellite Trauma Center,24.56,120
 Dr. Jackson,Urologist,8:00,8:00,Adventist Medical Center Manila,9.87,150
 Dr. Lee,Endovascular Neurosurgeon,16:00,16:00,Manila Doctors Hospital - Urology Dept.,9.78,70
 Dr. Jackson,Gynecologist,0:00,8:00,Our Lady of Perpetual Help Medical Center,20.67,75
@@ -84,7 +84,7 @@ Dr. White,Critical Care Medicine Specialist,0:00,16:00,Mary Johnston Hospital,18
 Dr. Anderson,Naturopathic Doctor,16:00,16:00,Ma. Clara Lying-in-Clinic,19.76,45
 Dr. Brown,Palliative Care Specialist,16:00,0:00,St. Anthony's Medical Center,24.12,110
 Dr. Johnson,Urologist,0:00,8:00,Philippine National Red Cross,16.89,150
-Dr. Williams,Craniofacial Surgeon,8:00,16:00,Las Piñas City Medical Center,25.34,100
+Dr. Williams,Craniofacial Surgeon,8:00,16:00,Las PiÃ±as City Medical Center,25.34,100
 Dr. Brown,Nuclear Medicine Specialist,8:00,16:00,Santos Medical Center,15.23,130
 Dr. Williams,Hepatologist,0:00,16:00,Justice Jose Abad Santos General Hospital,15.67,90
 Dr. Brown,Pulmonologist,8:00,8:00,Amang Rodriguez Memorial Medical Center,15.23,80
